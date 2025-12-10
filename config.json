@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Fic Tracker",
+    "supabase_url": "https://wnzvugevqlbbpginrmiv.supabase.co",
+    "supabase_key_env": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InduenZ1Z2V2cWxiYnBnaW5ybWl2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUzODg1OTIsImV4cCI6MjA4MDk2NDU5Mn0.8VWAobwqD-pQeELTn-BrVxdH5hFHCIk2mHC9vYWq7yg",
+    "table_name": "keep-alive"
+  }
+]
