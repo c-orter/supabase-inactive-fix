@@ -2,7 +2,7 @@
   {
     "name": "Fic Tracker",
     "supabase_url": "https://wnzvugevqlbbpginrmiv.supabase.co",
-    "supabase_key_env": "SUPABASE_KEY",
+    "supabase_key": "sb_publishable_ZGcSj20LWcrJVkC6y2PmVA_Wtf18YAE",
     "table_name": "keep-alive"
   }
 ]
